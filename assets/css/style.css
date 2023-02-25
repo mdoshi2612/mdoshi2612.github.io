@@ -16,7 +16,7 @@ body {
 }
 
 a {
-    color: #ffc451;
+    color: #01aded;
     text-decoration: none;
 }
 
@@ -46,7 +46,7 @@ h6 {
     right: 15px;
     bottom: 15px;
     z-index: 996;
-    background: #ffc451;
+    background: #01aded;
     width: 40px;
     height: 40px;
     border-radius: 4px;
@@ -64,7 +64,7 @@ h6 {
 }
 
 .back-to-top:hover i {
-    color: #ffc451;
+    color: #01aded;
 }
 
 .back-to-top.active {
@@ -93,7 +93,7 @@ h6 {
     position: fixed;
     top: calc(50% - 0px);
     left: calc(50% - 30px);
-    border: 6px solid #ffc451;
+    border: 6px solid #01aded;
     border-top-color: #151515;
     border-bottom-color: #151515;
     border-radius: 50%;
@@ -163,7 +163,7 @@ h6 {
 }
 
 #header .logo a span {
-    color: #ffc451;
+    color: #01aded;
 }
 
 #header .logo img {
@@ -381,7 +381,7 @@ h6 {
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
     color: #151515;
-    background-color: #ffc451;
+    background-color: #01aded;
 }
 
 .navbar-mobile .getstarted,
@@ -417,7 +417,7 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-    background-color: #ffc451;
+    background-color: #01aded;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -432,7 +432,7 @@ h6 {
 #hero {
     width: 100%;
     height: 100vh;
-    background: url("../img/hero-bg.jpg") top center;
+    background: url("../img/hero-bg-2-modified-2.jpg") top center;
     background-size: cover;
     position: relative;
 }
@@ -534,7 +534,7 @@ h6 {
 --------------------------------------------------------------*/
 
 section {
-    padding: 60px 0;
+    padding: 30px 0;
     overflow: hidden;
 }
 
@@ -599,7 +599,7 @@ section {
     font-size: 20px;
     left: 0;
     top: -3px;
-    color: #ffc451;
+    color: #01aded;
 }
 
 .about .content p:last-child {
@@ -619,6 +619,8 @@ section {
     opacity: 0.5;
     transition: 0.3s;
     filter: grayscale(100);
+    width: 150%;
+    height: auto;
 }
 
 .clients .swiper-slide img:hover {
@@ -640,7 +642,7 @@ section {
 }
 
 .clients .swiper-pagination .swiper-pagination-bullet-active {
-    background-color: #ffc451;
+    background-color: #01aded;
 }
 
 
@@ -665,7 +667,7 @@ section {
 .features .icon-box i {
     font-size: 48px;
     float: left;
-    color: #ffc451;
+    color: #01aded;
 }
 
 .features .icon-box p {
@@ -698,7 +700,7 @@ section {
     margin: 0 auto;
     width: 64px;
     height: 64px;
-    background: #ffc451;
+    background: #01aded;
     border-radius: 4px;
     display: flex;
     align-items: center;
@@ -725,7 +727,7 @@ section {
 }
 
 .services .icon-box h4 a:hover {
-    color: #ffc451;
+    color: #01aded;
 }
 
 .services .icon-box p {
@@ -776,8 +778,8 @@ section {
 }
 
 .cta .cta-btn:hover {
-    background: #ffc451;
-    border-color: #ffc451;
+    background: #01aded;
+    border-color: #01aded;
     color: #151515;
 }
 
@@ -814,7 +816,7 @@ section {
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
     color: #151515;
-    background: #ffc451;
+    background: #01aded;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -891,7 +893,7 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-    color: #ffc451;
+    color: #01aded;
 }
 
 .portfolio .portfolio-wrap:hover::before {
@@ -929,11 +931,11 @@ section {
     height: 12px;
     background-color: #fff;
     opacity: 1;
-    border: 1px solid #ffc451;
+    border: 1px solid #01aded;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-    background-color: #ffc451;
+    background-color: #01aded;
 }
 
 .portfolio-details .portfolio-info {
@@ -1000,7 +1002,7 @@ section {
 .counts .content .count-box i {
     display: block;
     font-size: 36px;
-    color: #ffc451;
+    color: #01aded;
     float: left;
 }
 
@@ -1151,7 +1153,7 @@ section {
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-    background-color: #ffc451;
+    background-color: #01aded;
     opacity: 1;
 }
 
@@ -1217,7 +1219,7 @@ section {
 
 .team .member .social a:hover {
     color: #151515;
-    background: #ffc451;
+    background: #01aded;
 }
 
 .team .member .social i {
@@ -1267,7 +1269,7 @@ section {
 
 .contact .info i {
     font-size: 20px;
-    background: #ffc451;
+    background: #01aded;
     color: #151515;
     float: left;
     width: 44px;
@@ -1360,7 +1362,7 @@ section {
 
 .contact .php-email-form input:focus,
 .contact .php-email-form textarea:focus {
-    border-color: #ffc451;
+    border-color: #01aded;
 }
 
 .contact .php-email-form input {
@@ -1372,7 +1374,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit] {
-    background: #ffc451;
+    background: #01aded;
     border: 0;
     padding: 10px 24px;
     color: #151515;
@@ -1485,7 +1487,7 @@ section {
 }
 
 #footer .footer-top .footer-info h3 span {
-    color: #ffc451;
+    color: #01aded;
 }
 
 #footer .footer-top .footer-info p {
@@ -1512,7 +1514,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-    background: #ffc451;
+    background: #01aded;
     color: #151515;
     text-decoration: none;
 }
@@ -1537,7 +1539,7 @@ section {
 
 #footer .footer-top .footer-links ul i {
     padding-right: 2px;
-    color: #ffc451;
+    color: #01aded;
     font-size: 18px;
     line-height: 1;
 }
@@ -1559,8 +1561,12 @@ section {
     line-height: 1;
 }
 
+.footer {
+    color: #01aded;
+}
+
 #footer .footer-top .footer-links ul a:hover {
-    color: #ffc451;
+    color: #01aded;
 }
 
 #footer .footer-top .footer-newsletter form {
@@ -1586,7 +1592,7 @@ section {
     background: none;
     font-size: 16px;
     padding: 0 20px;
-    background: #ffc451;
+    background: #01aded;
     color: #151515;
     transition: 0.3s;
     border-radius: 0 4px 4px 0;
