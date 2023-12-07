@@ -1,0 +1,36 @@
+- title: "An illustration of a quasi-interpolation driven technique for feedback synthesis"
+  guide: <a href="https://www.sc.iitb.ac.in/~chatterjee/master/homepage/index.html">Prof. Debasish Chatterjee</a>
+  image:
+    src: /assets/img/research/quasi.png
+    alt: 
+  date:  Mar '22 - Jan '23
+  description: A method to approximate feedback maps for Linear Quadratic Regulator controllers
+  links:
+    code: https://github.com/mdoshi2612/Optimal-Control
+    paper: https://www.sciencedirect.com/science/article/pii/S2405896323010170
+
+- title: Composed Image Retrieval
+  guide: <a href="https://biplab-banerjee.github.io/">Prof. Biplab Banerjee</a>, <a href="https://www.csre.iitb.ac.in/">CSRE</a>, <a href="https://www.iitb.ac.in/">IIT Bombay </a>
+  image:
+    src: /assets/img/research/cir.jpeg
+    alt: 
+  date: Aug '23 - Present
+  description: Composed Image Retrieval (CIR) is the task involves retrieving images from a large database based on a query composed of multiple elements, such as text, images, and sketches. The goal is to develop algorithms that can understand and combine multiple sources of information to accurately retrieve images that match the query, extending the user’s expression ability.
+  links:
+    code: https://github.com/mdoshi2612/Composed-Image-Retrieval
+    demo: 
+    blog: 
+
+- title: Scalability of Approximate Visualizations
+  # guide: <a href="https://www.cse.iitb.ac.in/~soumen/">Prof. Soumen Chakrabarti</a>, <a href="https://www.cse.iitb.ac.in/">Department of Computer Science</a>, <a href="https://www.iitb.ac.in/">IIT Bombay </a>
+  image:
+    src: /assets/img/research/viz.png
+    alt: 
+  date: May '23 - Aug '23
+  description: Automated visualization recommendation (Vis-Rec) models help users to derive crucial insights from new datasets. Typically, such automated Vis-Rec models first calculate a large number of statistics from the datasets and then use machine-learning models to score or classify multiple visualizations choices to recommend the most effective ones, as per the statistics.
+  links:
+    code: 
+    demo: 
+    blog: 
+    report: 
+    paper: 

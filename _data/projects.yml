@@ -1,0 +1,47 @@
+- title: International Aerial Robotics Competition Mission 9
+  image:
+    src: /assets/img/project/drone.jpg
+    alt: 
+  date: Summer '22
+  description: Developed CV pipelines to track mast in a moving environment
+  links:
+    code: https://github.com/mdoshi2612/IARC
+    demo: https://drive.google.com/file/d/19eHMvN9Ull6yCWfZ94jJO_ILZs4Kpaug/view?usp=sharing
+    blog: 
+    # report: https://nbviewer.org/github/shubhlohiya/automatic-raga-recognition/blob/master/report.pdf
+
+- title: DRDO’s UAV-Guided UGV Navigation Challenge
+  image:
+    src: /assets/img/project/ugv.jpeg
+    alt: 
+  date: March '22
+  description: Used UAV feed to navigate UGV through snowy environment
+  links:
+    code: https://github.com/mdoshi2612/DRDO_UAV_Guided_UGV_Challenge
+    # demo: https://drive.google.com/file/d/1J_fJA6Jh13AyEceG-9TP1KfXVSOk6Q4o/view?usp=sharing
+    # blog: 
+    # report: /assets/pdf/project/vertical-farming.pdf
+
+- title: Foundations of Intelligent Learning Agents
+  image:
+    src: /assets/img/project/rl.png
+    alt: 
+  date: Fall '21
+  description: Collection of basic Reinforcement Learning algorithms from scratch
+  links:
+    code: https://github.com/mdoshi2612/CS747-Autumn-2022
+    demo: 
+    blog: 
+    # report: https://nbviewer.org/github/shubhlohiya/dating-profile-recommendation/blob/master/report.pdf
+
+- title: Visual Explanation for CNNs
+  image: 
+    src: /assets/img/project/gradcam.jpeg
+    alt: 
+  date: Fall '22
+  description: Techniques to visualize outputs of CNNs
+  links:
+    code: https://github.com/mdoshi2612/WiDS-Project
+    demo: 
+    blog: 
+    report: 
