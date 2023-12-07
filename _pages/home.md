@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Shubham Lohiya
+title: Manav Doshi
 permalink: /
 description:
 
