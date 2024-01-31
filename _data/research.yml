@@ -21,6 +21,18 @@
     demo: 
     blog: 
 
+- title: Research and Development Project, Koita Centre for Digital Health
+  guide: <a href="https://www.kcdh.iitb.ac.in/people/faculty/associated-faculty">Dr. Kshitij Jadhav</a>, <a href="https://www.kcdh.iitb.ac.in/">KCDH</a>, <a href="https://www.iitb.ac.in/">IIT Bombay </a>
+  image:
+    src: /assets/img/research/pleural_effusion.png
+    alt: 
+  date: Jan '24 - Present
+  description: This involves fine-tuning the SAM model to segment pleural effusion using few-shot learning. This is further going to be consolidated into an LLM to bring interpretability to medical diagnosis systems
+  links:
+    code: https://github.com/mdoshi2612/SAMed-mod
+    demo: 
+    blog: 
+
 - title: Scalability of Approximate Visualizations
   # guide: <a href="https://www.cse.iitb.ac.in/~soumen/">Prof. Soumen Chakrabarti</a>, <a href="https://www.cse.iitb.ac.in/">Department of Computer Science</a>, <a href="https://www.iitb.ac.in/">IIT Bombay </a>
   image:

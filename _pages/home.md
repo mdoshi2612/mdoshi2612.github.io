@@ -53,7 +53,19 @@ Check out my <a href="{{ 'projects' | relative_url }}">research and other key pr
     <p class="work-text">
       <strong>Teaching Assistant | IIT Bombay</strong> <br/>
       <span style="font-size: 0.9rem">
-       » CE 102 - Engineering Mechanics, Spring 2021 <br>
+        CS 101 - Computer Utilization and Programming, Spring 2024 <br>
+       </span>
+    </p>
+  </div>
+
+  <div class="work-item">
+    <div class="work-bubble-with-date">
+      <img src="/assets/img/teaching.jpg" class="work-bubble" />
+    </div>
+    <p class="work-text">
+      <strong>Teaching Assistant | IIT Bombay</strong> <br/>
+      <span style="font-size: 0.9rem">
+        CE 102 - Engineering Mechanics, Spring 2021 <br>
        </span>
     </p>
   </div>
