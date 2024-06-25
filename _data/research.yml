@@ -1,3 +1,12 @@
+- title: "ScaleViz: Scaling Visualization Recommendation Models on Large Data"
+  image:
+    src: /assets/img/research/PAKDD.png
+    alt: 
+  date:  May '23 - Jul '23
+  description: Enable state of the art Vis-Rec models to achieve up to 10X speedup in time-to-visualize on large real-world datasets.
+  links:
+    paper: https://link.springer.com/chapter/10.1007/978-981-97-2262-4_8
+
 - title: "An illustration of a quasi-interpolation driven technique for feedback synthesis"
   guide: <a href="https://www.sc.iitb.ac.in/~chatterjee/master/homepage/index.html">Prof. Debasish Chatterjee</a>
   image:
@@ -24,10 +33,10 @@
 - title: Research and Development Project, Koita Centre for Digital Health
   guide: <a href="https://www.kcdh.iitb.ac.in/people/faculty/associated-faculty">Dr. Kshitij Jadhav</a>, <a href="https://www.kcdh.iitb.ac.in/">KCDH</a>, <a href="https://www.iitb.ac.in/">IIT Bombay </a>
   image:
-    src: /assets/img/research/pleural_effusion.png
+    src: /assets/img/research/seg.png
     alt: 
   date: Jan '24 - Present
-  description: This involves fine-tuning the SAM model to segment pleural effusion using few-shot learning. This is further going to be consolidated into an LLM to bring interpretability to medical diagnosis systems
+  description: This involves fine-tuning the SAM model using Low Rank Approximation to segment pleural effusion using few-shot learning. This is further going to be consolidated into an LLM to bring interpretability to medical diagnosis systems
   links:
     code: https://github.com/mdoshi2612/SAMed-mod
     demo: 
