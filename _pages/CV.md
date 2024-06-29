@@ -10,7 +10,7 @@ navpos: 1
     <img src="{{ 'pdf.svg' | prepend: '/assets/' | relative_url }}" alt="CV" title="Dowload CV" height="30px"> &nbsp;
     <span style="color:blue; font-size:1.25em"> Curriculum Vitae </span>
 </a> &nbsp; &nbsp; &nbsp; -->
-<a href="{{ 'CV.pdf' | relative_url }}">
+<a href="{{ 'Manav_Doshi_Resume.pdf' | relative_url }}">
     <img src="{{ 'pdf.svg' | prepend: '/assets/' | relative_url }}" alt="Resume" title="Dowload Resume" height="30px"> &nbsp;
     <span style="color:blue; font-size:1.25em"> Resume </span>
 </a>
