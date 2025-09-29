@@ -2,6 +2,17 @@
 ---
 
 <table>
+
+  <tr>
+    <th>June 2025</th>
+    <td>Interning at <a href = "(https://plus.ai)">PlusAI</a> as a Research Engineer Intern</td>
+  </tr>
+
+  <tr>
+    <th>September 2024</th>
+    <td>Started working at the <a href = "(https://www.schoeneberglab.org/home)">4D CELL Lab</a> at UCSD</td>
+  </tr>
+
   <tr>
     <th>March 2024</th>
     <td>Received an admit from <a href = "(https://ucsd.edu/)">UCSD</a> for their MS CS Program</td>

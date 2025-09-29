@@ -16,7 +16,9 @@ social: false # includes social icons at the bottom of the page
 <!-- <br> -->
 <span style="font-weight:500; font-size: 25px" > Hello there!</span>
 
-I am currently a graduate student pursuing a Master's degree in Computer Science with a specialization in Artificial Intelligence at [UC San Diego](https://ucsd.edu/). I am also working at the [4D CELL Lab](https://www.schoeneberglab.org/) at UCSD as a Graduate Student Researcher (GSR) under the guidance of [Prof. Johannes Schöneberg](https://pharmacology.ucsd.edu/faculty/department-faculty/johannes-schoneberg.html) where I work on leveraging self-supervised deep learning methods to extract information from 4D Microscopy Data. <br>
+I am currently a graduate student pursuing a Master's degree in Computer Science with a specialization in Artificial Intelligence at [UC San Diego](https://ucsd.edu/). I interned at [PlusAI](https://plus.ai/) in the summer of 2025 as a Resarch Engineer Intern, working on developing end-to-end models for autonomous trucks. <br>
+
+Previously, I also worked at the [4D CELL Lab](https://www.schoeneberglab.org/) at UCSD as a Graduate Student Researcher (GSR) under the guidance of [Prof. Johannes Schöneberg](https://pharmacology.ucsd.edu/faculty/department-faculty/johannes-schoneberg.html) where I worked on leveraging self-supervised deep learning methods to extract information from 4D Microscopy Data. <br>
 
 During the summer of 2023, I interned at [Adobe](https://research.adobe.com/) where I worked on scaling visualisation recommendation systems using Reinforcement Learning and Feature Selection methods. This internship culminated in us filing a patent and publishing a paper on the same at PAKDD 2024. <br>
 
