@@ -14,9 +14,12 @@ social: false # includes social icons at the bottom of the page
 ---
 
 <!-- <br> -->
+
 <span style="font-weight:500; font-size: 25px" > Hello there!</span>
 
-I am currently a graduate student pursuing a Master's degree in Computer Science with a specialization in Artificial Intelligence at [UC San Diego](https://ucsd.edu/). I interned at [PlusAI](https://plus.ai/) in the summer of 2025 as a Resarch Engineer Intern, working on developing end-to-end models for autonomous trucks. <br>
+I am currently a graduate student pursuing a Master's degree in Computer Science with a specialization in Artificial Intelligence at [UC San Diego](https://ucsd.edu/). Starting May, I will be joining [Thorin](https://thorin.com) as a Founding Engineer. At Thorin, we’re rethinking what AI systems can be—moving beyond passive assistants toward agents that understand the full context of an organization and act autonomously to drive outcomes. From enforcing policies across workflows to synthesizing insights across fragmented data sources, we’re building systems that don’t just respond, but proactively advance goals while keeping humans in the loop where it matters. We're always on the lookout for great talent so please reach out at [doshimanav@gmail.com](mailto:doshimanav@gmail.com) <br>
+
+I interned at [PlusAI](https://plus.ai/) in the summer of 2025 as a Resarch Engineer Intern, working on developing end-to-end models for autonomous trucks. <br>
 
 Previously, I also worked at the [4D CELL Lab](https://www.schoeneberglab.org/) at UCSD as a Graduate Student Researcher (GSR) under the guidance of [Prof. Johannes Schöneberg](https://pharmacology.ucsd.edu/faculty/department-faculty/johannes-schoneberg.html) where I worked on leveraging self-supervised deep learning methods to extract information from 4D Microscopy Data. <br>
 
@@ -45,7 +48,6 @@ My primary research interests lie in the dynamic and rapidly evolving field of c
 <h4>Experience</h4>
 Check out my <a href="{{ 'projects' | relative_url }}">research and other key projects</a>, and my <a href="{{ 'work' | relative_url }}">professional work experience</a>. 
 <br><br>
-
 
 <h4>Teaching Responsibilities and Service</h4>
 <br>
@@ -92,6 +94,5 @@ Check out my <a href="{{ 'projects' | relative_url }}">research and other key pr
       <strong>Department Research Co-ordinator, Undergraduate Academic Council, IIT Bombay, 2022-23</strong> <br/>
     </p>
   </div>
-
 
 </div>
