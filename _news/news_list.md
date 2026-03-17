@@ -4,6 +4,11 @@
 <table>
 
   <tr>
+    <th>May 2026</th>
+    <td>Joining <a href = "(https://thorin.com)">Thorin</a> as a Founding Engineer</td>
+  </tr>
+
+  <tr>
     <th>June 2025</th>
     <td>Interning at <a href = "(https://plus.ai)">PlusAI</a> as a Research Engineer Intern</td>
   </tr>
